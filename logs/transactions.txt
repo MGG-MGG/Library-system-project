@@ -1,1 +1,0 @@
-[2025-05-19 16:02:16] User: 20 (emre) borrowed Book: 3000 "anan"
